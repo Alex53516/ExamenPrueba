@@ -1,0 +1,79 @@
+h1{
+background-color: orange;
+color: white;
+text-align: center;
+height: 70px;
+}
+
+ul {
+    list-style-type: none;
+}
+  
+  li {
+    background-color: skyblue;
+    float: left;
+    text-align: center;
+    width: 5em;
+    border: black 3px solid;
+}
+
+div.left{
+
+float: left;
+
+}
+
+div.azul{
+
+color: blue ;
+font-size: 2.9mm;
+border-top: blue 12px solid;
+border-bottom: blue 12px solid;
+}
+
+div.right{
+
+float: right;
+
+
+
+}
+
+
+div.rojo{
+color: red;
+font-size: 2.8mm;
+border-top: red 12px solid;
+border-bottom: red 12px solid;
+background-color: skyblue;
+
+}
+
+a:hover{
+background-color: yellow;
+}
+
+div.fin{
+text-align: center;
+background-color: salmon;
+width: 770px;
+height: 80px;
+
+
+}
+  hr{
+
+    height: 10px;
+  }
+
+
+
+
+  section{
+border-top: orange 3px solid ;
+border-right: orange 3px solid ;
+border-left: orange 3px solid ;
+border-bottom: orange 10px solid ;
+
+
+  }
